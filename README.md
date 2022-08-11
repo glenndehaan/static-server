@@ -6,7 +6,7 @@ A Docker base image for serving static websites
 
 ## Usage
 - Create a `Dockerfile` and include the `glenndehaan/static-server` as base image or use the `Example Dockerfile` below
-- Build and run your container with port 3000 forwarded
+- Build and run your container with port 80 forwarded to for example port 3000
 - Visit: http://localhost:3000 to see your app
 
 ## Development Usage
