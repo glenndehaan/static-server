@@ -10,9 +10,9 @@ A Docker base image for serving static websites
 - Visit: http://localhost:3000 to see your app
 
 ## Development Usage
-Make sure you have docker and docker-composer installed in your machine then run the following command in your terminal:
+Make sure you have docker installed in your machine then run the following command in your terminal:
 ```
-docker-compose up
+docker compose up
 ```
 
 ## Example Dockerfile

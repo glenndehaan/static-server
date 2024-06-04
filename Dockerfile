@@ -1,7 +1,7 @@
 #
 # Define OS
 #
-FROM alpine:3.14
+FROM alpine:3.20
 
 #
 # Basic OS management
